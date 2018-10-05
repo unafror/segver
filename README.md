@@ -10,7 +10,7 @@ Para utilizar esse projeto, basta efetuar a clonagem do projeto dentro do diret�
 
 Servidor de aplicação PHP 5 / 7
 
-´´´
+```
 Apache Server
 ```
 
